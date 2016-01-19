@@ -1,0 +1,14 @@
+{
+  "name": "steel-flint",
+  "main": "./lib/index",
+  "version": "0.0.0",
+  "description": "A work in progress improvement for the flint package",
+  "keywords": [],
+  "repository": "https://github.com/atom/steel-flint",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
