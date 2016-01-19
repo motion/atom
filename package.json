@@ -10,8 +10,10 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "atom-package-deps": "^3.0.7",
     "reconnectingwebsocket": "^1.0.0"
   },
+  "package-deps": ["linter"],
   "consumedServices": {
     "linter-indie": {
       "versions": {
