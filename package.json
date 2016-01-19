@@ -11,5 +11,12 @@
   },
   "dependencies": {
     "reconnectingwebsocket": "^1.0.0"
+  },
+  "consumedServices": {
+    "linter-indie": {
+      "versions": {
+        "1.0.0": "consumeLinter"
+      }
+    }
   }
 }
