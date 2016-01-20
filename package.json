@@ -11,13 +11,21 @@
   },
   "dependencies": {
     "atom-package-deps": "^3.0.7",
-    "reconnectingwebsocket": "^1.0.0"
+    "reconnectingwebsocket": "^1.0.0",
+    "vanilla-jsx": "^3.0.2"
   },
-  "package-deps": ["linter"],
+  "package-deps": [
+    "linter"
+  ],
   "consumedServices": {
     "linter-indie": {
       "versions": {
         "1.0.0": "consumeLinter"
+      }
+    },
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusbar"
       }
     }
   }
