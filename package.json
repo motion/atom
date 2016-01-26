@@ -15,7 +15,7 @@
     "vanilla-jsx": "^3.0.2"
   },
   "package-deps": [
-    "linter", "intentions-colorpicker", "pigments", "number-range"
+    "linter", "intentions-colorpicker", "pigments", "number-range", "intelli-colorpicker"
   ],
   "consumedServices": {
     "linter-indie": {
