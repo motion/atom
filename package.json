@@ -28,5 +28,12 @@
         "^1.0.0": "consumeStatusbar"
       }
     }
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provideAutocomplete"
+      }
+    }
   }
 }
