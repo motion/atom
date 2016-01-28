@@ -12,10 +12,15 @@
   "dependencies": {
     "atom-package-deps": "^3.0.7",
     "reconnectingwebsocket": "^1.0.0",
+    "sb-string_score": "^0.1.20",
     "vanilla-jsx": "^3.0.2"
   },
   "package-deps": [
-    "linter", "intentions-colorpicker", "pigments", "number-range", "intelli-colorpicker"
+    "linter",
+    "intentions-colorpicker",
+    "pigments",
+    "number-range",
+    "intelli-colorpicker"
   ],
   "consumedServices": {
     "linter-indie": {
@@ -26,6 +31,13 @@
     "status-bar": {
       "versions": {
         "^1.0.0": "consumeStatusbar"
+      }
+    }
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provideAutocomplete"
       }
     }
   }
