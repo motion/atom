@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "atom-package-deps": "^3.0.7",
+    "humps": "^1.0.0",
     "reconnectingwebsocket": "^1.0.0",
     "vanilla-jsx": "^3.0.2"
   },
