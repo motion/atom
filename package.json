@@ -18,7 +18,6 @@
   "package-deps": [
     "linter",
     "intentions-colorpicker",
-    "pigments",
     "number-range",
     "intelli-colorpicker"
   ],
