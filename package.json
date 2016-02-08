@@ -18,8 +18,7 @@
   "package-deps": [
     "linter",
     "intentions-colorpicker",
-    "number-range",
-    "intelli-colorpicker"
+    "number-range"
   ],
   "consumedServices": {
     "linter-indie": {
