@@ -1,7 +1,7 @@
 {
   "name": "flint",
   "main": "./lib/index",
-  "version": "8.7.0",
+  "version": "9.0.0",
   "description": "A work in progress improvement for the flint package",
   "keywords": [],
   "repository": "https://github.com/flintjs/atom",
