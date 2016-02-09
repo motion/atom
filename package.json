@@ -17,6 +17,7 @@
   },
   "package-deps": [
     "linter",
+    "language-flint",
     "intentions-colorpicker",
     "number-range"
   ],
