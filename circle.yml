@@ -7,8 +7,3 @@ dependencies:
 test:
   override:
     - apm test
-
-general:
-  branches:
-    only:
-      - master
