@@ -1,5 +1,0 @@
-'.platform-darwin':
-  'cmd-alt-s': 'steel-flint:toggle-live-reload'
-
-'.platform-win32, .platform-linux':
-  'cmd-ctrl-s': 'steel-flint:toggle-live-reload'
