@@ -1,10 +1,10 @@
 {
-  "name": "steel-flint",
+  "name": "flint",
   "main": "./lib/index",
-  "version": "0.0.0",
+  "version": "8.7.0",
   "description": "A work in progress improvement for the flint package",
   "keywords": [],
-  "repository": "https://github.com/steelbrain/steel-flint",
+  "repository": "https://github.com/flintjs/atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
