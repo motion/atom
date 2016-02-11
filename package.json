@@ -12,7 +12,7 @@
   "dependencies": {
     "atom-package-deps": "^3.0.7",
     "reconnectingwebsocket": "^1.0.0",
-    "sb-debounce": "^1.0.0",
+    "sb-debounce": "^1.0.1",
     "sb-promisify": "^1.0.0",
     "vanilla-jsx": "^3.0.2"
   },
