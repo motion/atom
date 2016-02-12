@@ -2,7 +2,7 @@
   "name": "flint",
   "main": "./lib/index",
   "version": "9.0.0",
-  "description": "A work in progress improvement for the flint package",
+  "description": "Flint.js support for Atom",
   "keywords": [],
   "repository": "https://github.com/flintjs/atom",
   "license": "MIT",
