@@ -20,7 +20,7 @@
     "linter",
     "language-flint",
     "intentions-colorpicker",
-    "number-range"
+    "intentions-numbers"
   ],
   "consumedServices": {
     "linter-indie": {
