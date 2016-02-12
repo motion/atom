@@ -1,7 +1,7 @@
 {
   "name": "flint",
   "main": "./lib/index.js",
-  "version": "9.0.0",
+  "version": "9.0.1",
   "description": "Flint.js support for Atom",
   "keywords": [],
   "repository": "https://github.com/flintjs/atom",
