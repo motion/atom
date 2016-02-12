@@ -1,6 +1,6 @@
 ## Upcoming
 
-- Some new feature
+- Migrate from numbers-range to intentions-numbers package, which features more stability and enhancements
 
 ## 9.0.0
 
