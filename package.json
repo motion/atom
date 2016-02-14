@@ -1,10 +1,10 @@
 {
-  "name": "flint",
+  "name": "motion",
   "main": "./lib/index.js",
-  "version": "9.0.1",
-  "description": "Flint.js support for Atom",
+  "version": "0.0.0",
+  "description": "Motion.js support for Atom",
   "keywords": [],
-  "repository": "https://github.com/flintjs/atom",
+  "repository": "https://github.com/motion/atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -18,7 +18,7 @@
   },
   "package-deps": [
     "linter",
-    "language-flint",
+    "language-motion",
     "intentions-colorpicker",
     "intentions-numbers"
   ],

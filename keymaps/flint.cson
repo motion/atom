@@ -1,5 +1,5 @@
 '.platform-darwin':
-  'cmd-alt-s': 'flint:toggle-live-reload'
+  'cmd-alt-s': 'motion:toggle-live-reload'
 
 '.platform-win32, .platform-linux':
-  'cmd-ctrl-s': 'flint:toggle-live-reload'
+  'cmd-ctrl-s': 'motion:toggle-live-reload'
