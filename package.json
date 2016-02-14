@@ -39,6 +39,11 @@
       "versions": {
         "2.0.0": "provideAutocomplete"
       }
+    },
+    "declarations": {
+      "versions": {
+        "1.0.0": "provideDeclarations"
+      }
     }
   }
 }
