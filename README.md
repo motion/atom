@@ -1,15 +1,15 @@
-# Flint
+# Motion
 
-Flint support package for Atom
+Motion support package for Atom
 
 ## Installation
 
 ```bash
-apm install flint
+apm install motion
 ```
 
 ## Usage
 
 Toggle live reloading with `option + cmd + s`
 
-**It only recognizes flint projects if your root project directory is your flint app**
+**It only recognizes motion projects if your root project directory is your motion app**
