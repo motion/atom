@@ -1,3 +1,7 @@
+## Upcoming
+
+- Merge both status bar indicators into one
+
 ## 1.0.4
 
 - Use Linter Standard API instead of Indie API
