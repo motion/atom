@@ -24,11 +24,6 @@
     "intentions-numbers"
   ],
   "consumedServices": {
-    "linter-indie": {
-      "versions": {
-        "1.0.0": "consumeLinter"
-      }
-    },
     "status-bar": {
       "versions": {
         "^1.0.0": "consumeStatusbar"
@@ -44,6 +39,11 @@
     "declarations": {
       "versions": {
         "1.0.0": "provideDeclarations"
+      }
+    },
+    "linter": {
+      "versions": {
+        "1.0.0": "provideLinter"
       }
     }
   }
