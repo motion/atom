@@ -17,6 +17,7 @@
     "vanilla-jsx": "^3.0.2"
   },
   "package-deps": [
+    "declarations",
     "linter",
     "language-motion",
     "intentions-colorpicker",
@@ -38,6 +39,11 @@
     "autocomplete.provider": {
       "versions": {
         "2.0.0": "provideAutocomplete"
+      }
+    },
+    "declarations": {
+      "versions": {
+        "1.0.0": "provideDeclarations"
       }
     }
   }
