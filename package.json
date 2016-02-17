@@ -17,6 +17,7 @@
     "vanilla-jsx": "^3.0.2"
   },
   "package-deps": [
+    "declarations",
     "linter",
     "language-motion",
     "intentions-colorpicker",
