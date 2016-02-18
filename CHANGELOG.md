@@ -2,6 +2,7 @@
 
 - Merge both status bar indicators into one
 - Ignore style blocks without an element
+- Fix a race condition between status icon and connections
 
 ## 1.0.4
 
