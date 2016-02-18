@@ -3,6 +3,7 @@
 - Merge both status bar indicators into one
 - Ignore style blocks without an element
 - Fix a race condition between status icon and connections
+- Cache views until text is changed
 
 ## 1.0.4
 
