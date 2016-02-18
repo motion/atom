@@ -1,6 +1,7 @@
 ## Upcoming
 
 - Merge both status bar indicators into one
+- Ignore style blocks without an element
 
 ## 1.0.4
 
