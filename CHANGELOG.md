@@ -1,3 +1,7 @@
+## Upcoming
+
+- Make jump to view styles work
+
 ## 1.1.0
 
 - Merge both status bar indicators into one
@@ -5,6 +9,7 @@
 - Fix a race condition between status icon and connections
 - Cache views until text is changed
 - Merge language-motion in
+- Make jump to view work
 
 ## 1.0.4
 
