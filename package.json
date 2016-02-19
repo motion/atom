@@ -19,7 +19,6 @@
   "package-deps": [
     "declarations",
     "linter",
-    "language-motion",
     "intentions-colorpicker",
     "intentions-numbers"
   ],
