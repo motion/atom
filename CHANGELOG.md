@@ -4,6 +4,7 @@
 - Ignore style blocks without an element
 - Fix a race condition between status icon and connections
 - Cache views until text is changed
+- Merge language-motion in
 
 ## 1.0.4
 
