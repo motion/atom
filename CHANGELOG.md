@@ -1,3 +1,7 @@
+## Upcoming
+
+- Do not disable `autocomplete-snippets`
+
 ## 1.1.0
 
 - Merge both status bar indicators into one
