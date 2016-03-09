@@ -18,7 +18,6 @@
   },
   "package-deps": [
     "declarations",
-    "flow-ide",
     "linter",
     "intentions-colorpicker",
     "intentions-numbers"
