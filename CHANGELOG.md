@@ -1,4 +1,4 @@
-## Upcoming
+## 1.1.1
 
 - Do not disable `autocomplete-snippets`
 - Auto install `flow-ide` package
