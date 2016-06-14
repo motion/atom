@@ -1,3 +1,8 @@
+## 2.0.0
+
+- Nuke everything
+- Implement a `$` imports resolver
+
 ## 1.1.1
 
 - Do not disable `autocomplete-snippets`
