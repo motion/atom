@@ -17,26 +17,7 @@
     "vanilla-jsx": "^3.0.2"
   },
   "package-deps": [
-    "declarations",
-    "linter",
     "intentions-colorpicker",
     "intentions-numbers"
-  ],
-  "providedServices": {
-    "autocomplete.provider": {
-      "versions": {
-        "2.0.0": "provideAutocomplete"
-      }
-    },
-    "declarations": {
-      "versions": {
-        "1.0.0": "provideDeclarations"
-      }
-    },
-    "linter": {
-      "versions": {
-        "1.0.0": "provideLinter"
-      }
-    }
-  }
+  ]
 }
