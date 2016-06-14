@@ -22,13 +22,6 @@
     "intentions-colorpicker",
     "intentions-numbers"
   ],
-  "consumedServices": {
-    "status-bar": {
-      "versions": {
-        "^1.0.0": "consumeStatusbar"
-      }
-    }
-  },
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
