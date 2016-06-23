@@ -1,3 +1,7 @@
+## 2.0.1
+
+- Keep the cursor within path at replace time
+
 ## 2.0.0
 
 - Nuke everything
