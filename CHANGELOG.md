@@ -1,3 +1,7 @@
+## 2.0.2
+
+- Fix a bug where even `_require`'s contents would be replaced
+
 ## 2.0.1
 
 - Keep the cursor within path at replace time
