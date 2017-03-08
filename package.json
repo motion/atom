@@ -17,5 +17,11 @@
   "package-deps": [
     "intentions-colorpicker",
     "intentions-numbers"
-  ]
+  ],
+  "devDependencies": {
+    "eslint-config-steelbrain": "^2.0.0"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
 }
