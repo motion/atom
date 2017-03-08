@@ -1,6 +1,11 @@
+## 2.1.0
+
+- Cleanup and bump versions of most dependencies
+- Remove package-deps
+
 ## 2.0.2
 
-- Fix a bug where even `_require`'s contents would be replaced
+- Fix a bug where even `require`'s contents would be replaced
 
 ## 2.0.1
 
