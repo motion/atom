@@ -11,13 +11,8 @@
   },
   "dependencies": {
     "atom-linter": "^9.0.1",
-    "atom-package-deps": "^4.0.0",
     "sb-event-kit": "^3.0.0"
   },
-  "package-deps": [
-    "intentions-colorpicker",
-    "intentions-numbers"
-  ],
   "devDependencies": {
     "eslint-config-steelbrain": "^2.0.0"
   },
