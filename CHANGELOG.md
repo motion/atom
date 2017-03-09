@@ -1,3 +1,7 @@
+## 2.1.1
+
+- Handle empty path properly (Fixes #81)
+
 ## 2.1.0
 
 - Cleanup and bump versions of most dependencies
